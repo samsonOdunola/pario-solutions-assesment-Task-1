@@ -5,11 +5,6 @@ const Confirmpayment = ({
   cardInfoControl,
   confirmPaymentControl,
 }) => {
-  const setTab = () => {
-    perInfoControl(false);
-    cardInfoControl(true);
-    confirmPaymentControl(false);
-  };
   const resetTab = () => {
     perInfoControl(true);
     cardInfoControl(false);

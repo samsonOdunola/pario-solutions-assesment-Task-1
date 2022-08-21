@@ -192,11 +192,6 @@ form select {
   font-weight: 800;
   color: #4e598c;
 }
-.horizontal-line {
-  height: 1px;
-  background-color: grey;
-  margin: 2vw 1vw;
-}
 .total > .item-list {
   border: 1px solid grey;
   padding: 0.7vw 1vw;

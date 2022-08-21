@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { states } from "../Data/allData";
+
 const Carddetailform = ({
   perInfoControl,
   cardInfoControl,

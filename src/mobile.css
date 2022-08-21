@@ -1,0 +1,84 @@
+@media screen and (max-width: 800px) {
+  .container {
+    padding-top: 4vh;
+  }
+  section {
+    width: 80%;
+  }
+  section nav h1 {
+    font-size: 5vw;
+  }
+  section nav ul {
+    margin-top: 2vw;
+    font-size: 2vw;
+  }
+  .news_let {
+    margin-top: 2.5vw;
+  }
+  form label {
+    font-size: 2vw;
+  }
+  form input {
+    margin-top: 2vw;
+    margin-bottom: 3vw;
+    font-size: 2vw;
+    padding: 1vw;
+  }
+  form p {
+    margin-top: 0.8vw;
+    font-size: 2vw;
+  }
+  form select {
+    width: 100%;
+    margin-top: 2vw;
+    margin-bottom: 3vw;
+    font-size: 2vw;
+    padding: 1vw;
+  }
+  .buttons .submit-btn {
+    border-radius: 7px;
+    font-size: 2vw;
+    padding: 0.7vw;
+  }
+  .buttons .cancel-btn {
+    font-size: 2vw;
+    padding: 0.7vw;
+  }
+  .confirm-box .heading h1 {
+    font-size: 2vw;
+  }
+  .entry {
+    padding-bottom: 3vw;
+  }
+  .item-list {
+    margin-top: 6vw;
+  }
+  .item-list p {
+    font-size: 1.8vw;
+  }
+  .total > .item-list {
+    border: 1px solid grey;
+    padding: 2vw 1vw;
+    margin: 1.5vw 1.5vw 0 1.5vw;
+  }
+  .succesfull-box {
+    width: 60%;
+  }
+  .succesfull-box .check-icon {
+    font-size: 7vw;
+  }
+  .succesfull-box h3 {
+    font-size: 4vw;
+    margin-bottom: 1vw;
+    line-height: 50px;
+  }
+  .succesfull-box p {
+    font-size: 2vw;
+    width: 90%;
+    line-height: 20px;
+    margin-bottom: 1vw;
+  }
+  .succesfull-box .return-link {
+    font-size: 2vw;
+  }
+}
